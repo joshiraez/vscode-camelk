@@ -351,7 +351,7 @@
 	"devDependencies": {
 		"@types/chai": "^4.3.3",
 		"@types/download": "^8.0.1",
-		"@types/glob": "^7.2.0",
+		"@types/glob": "^8.0.0",
 		"@types/mkdirp": "^1.0.2",
 		"@types/mocha": "^9.1.1",
 		"@types/node": "^18.7.13",
@@ -365,7 +365,7 @@
 		"chai": "^4.3.6",
 		"copyfiles": "^2.4.1",
 		"decache": "^4.6.1",
-		"eslint": "^8.22.0",
+		"eslint": "^8.23.0",
 		"eslint-plugin-import": "^2.26.0",
 		"glob": "^8.0.3",
 		"mocha": "^9.2.2",
