@@ -357,7 +357,7 @@
 		"@types/node": "^18.7.13",
 		"@types/sinon": "^10.0.13",
 		"@types/sinon-chai": "^3.2.8",
-		"@types/vscode": "^1.57.0",
+		"@types/vscode": "^1.76.0",
 		"@typescript-eslint/eslint-plugin": "^5.35.1",
 		"@typescript-eslint/parser": "^5.35.1",
 		"ansi-regex": "^5.0.1",
